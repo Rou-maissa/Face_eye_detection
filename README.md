@@ -26,12 +26,8 @@ Press `Esc` to exit the application.
 
 ## Usage
 
-**Clone the repository:**
-
-git clone <https://github.com/Rou-maissa/Face_eye_detection.git>
-cd <Face_eye_detection>
-
 Make sure the Haar cascade XML files are in the same directory:
+
 haarcascade_frontalface_default.xml
 
 haarcascade_eye.xml
@@ -59,3 +55,8 @@ Continuously updates the display in real-time until the user presses Esc.
 ## References
 
 OpenCV Haar Cascades: https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+**Clone the repository:**
+
+````markdown
+git clone <https://github.com/Rou-maissa/Face_eye_detection.git>
