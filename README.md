@@ -28,7 +28,7 @@ Press `Esc` to exit the application.
 
 **Clone the repository:**
 
-git clone <your-repo-url>
+git clone <https://github.com/Rou-maissa/Face_eye_detection.git>
 cd <Face_eye_detection>
 
 Make sure the Haar cascade XML files are in the same directory:
